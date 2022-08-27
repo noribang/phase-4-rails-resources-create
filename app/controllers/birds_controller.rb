@@ -16,4 +16,10 @@ class BirdsController < ApplicationController
     end
   end
 
+  # POST /birds
+  def create
+    byebug
+
+  end
+
 end
